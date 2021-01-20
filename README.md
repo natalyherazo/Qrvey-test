@@ -13,8 +13,8 @@ This application contains a document with manual test cases suite including the 
 
 
 Package:
-robotframework-python3
-robotframework-seleniumlibrary
+[robotframework-python3](https://pypi.org/project/robotframework-python3/)  
+[robotframework-seleniumlibrary](https://pypi.org/project/robotframework-seleniumlibrary/)  
 
 Running the test automation suite
 In the Terminal, navigate to the project folder
@@ -22,5 +22,7 @@ Run the suite with the command:
 robot Nathtesting.robot
  
 
-Robot Framework Built In Keywords
-Selenium Library Keywords
+Support Information
+[Robot Framework Built In Keywords](http://robotframework.org/robotframework/latest/libraries/BuiltIn.html)  
+
+[Selenium Library Keywords](http://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)  
