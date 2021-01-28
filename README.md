@@ -19,7 +19,7 @@ Package:
 Running the test automation suite  
 In the Terminal, navigate to the project folder
 Run the suite with the command:
-robot Nathtesting.robot
+robot qrvey.robot
  
 
 Support Information  
